@@ -10,9 +10,19 @@ public class OurRestController {
     public String helloWorld() {
         return "Hello World";
     }
-    @GetMapping("/emir")
+    @GetMapping("/${name}")
     public String emir() {
         return "Emir";
+    }
+
+    @GetMapping("yilmaz")
+    public String yilmaz() {
+        return "Yilmaz";
+    }
+
+    @GetMapping("devtools")
+    public String devToools(){
+        return "Dev Toools";
     }
 
 }
