@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea5b1f03-b192-4738-a753-ef42214dc5bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/04-step01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-step01/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-step01/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-step01/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-step01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-step01/src/main/java/com/springBoot/step01/Step01Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-step01/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-step01/src/test/java/com/springBoot/step01/Step01ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloWorld/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloWorld/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloWorld/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloWorld/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloWorld/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/src/main/java/com/intro/helloWorld/HelloWorldApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloWorld/src/main/java/com/intro/helloWorld/HelloWorldApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/src/main/java/com/intro/helloWorld/rest/OurRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloWorld/src/main/java/com/intro/helloWorld/rest/OurRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloWorld/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld/src/test/java/com/intro/helloWorld/HelloWorldApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloWorld/src/test/java/com/intro/helloWorld/HelloWorldApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/src/main/java/com/example/myApp/Business/CityMenager.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/src/main/java/com/example/myApp/Business/CityMenager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/src/main/java/com/example/myApp/Business/ICityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/src/main/java/com/example/myApp/Business/ICityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/src/main/java/com/example/myApp/DataAccesLayer/HibernateDAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/src/main/java/com/example/myApp/DataAccesLayer/HibernateDAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/src/main/java/com/example/myApp/DataAccesLayer/IDataAcces.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/src/main/java/com/example/myApp/DataAccesLayer/IDataAcces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/src/main/java/com/example/myApp/Entities/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/src/main/java/com/example/myApp/Entities/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/src/main/java/com/example/myApp/MyAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/src/main/java/com/example/myApp/MyAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/src/main/java/com/example/myApp/Rest/CityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/src/main/java/com/example/myApp/Rest/CityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/src/test/java/com/example/myApp/MyAppApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-myApp/src/test/java/com/example/myApp/MyAppApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/src/main/java/com/hibernate/DbConfig/DBContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/src/main/java/com/hibernate/DbConfig/DBContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/src/main/java/com/hibernate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/src/main/java/com/hibernate/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/src/main/java/com/hibernate/entity/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/src/main/java/com/hibernate/entity/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/src/main/java/com/hibernate/queries/Queries.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/src/main/java/com/hibernate/queries/Queries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myAppWithoutSpringBoot/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-myAppWithoutSpringBoot/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="2fk0xi27" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2lbZcvwE0CrrpPRQIP3QXpKsq21" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Emirin Yazılım Şeysileri/Spring-Boot/04-step01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Emirin Yazılım Şeysileri\Spring-Boot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="myApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.myApp.MyAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea5b1f03-b192-4738-a753-ef42214dc5bd" name="Changes" comment="" />
+      <created>1725450819993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725450819993</updated>
+      <workItem from="1725450821103" duration="823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
